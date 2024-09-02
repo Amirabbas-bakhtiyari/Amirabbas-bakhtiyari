@@ -3,7 +3,7 @@
   <h3>I am an Active Frontend developer:)</h3>
 </div>
 
-  <h1>My Experiences</h1>
+  <h1>My Skills</h1>
 <div align="center">
 <img align="center" src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,sass,bootstrap,git,github,gitlab,nextjs,npm,wordpress' alt="My Experiences"/>
 </div>
