@@ -1,3 +1,13 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
+</a>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amir+Sondosi+Nobari;A+Backend+developer(Node.js);Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
+  </a>
+</h1>
+
 <div align="center">
   <h1 style="color:orange">AMIRABBAS BAKHTIYARI</h1>
   <h3>I am an Active Frontend developer:)</h3>
