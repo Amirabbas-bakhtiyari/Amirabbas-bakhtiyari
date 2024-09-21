@@ -6,7 +6,7 @@
 </div>
   <h1>My Skills</h1>
 <div align="center">
-<img align="center" src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,sass,bootstrap,git,github,gitlab,nextjs,npm,wordpress' alt="My Experiences"/>
+<img align="center" src='https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,redux,vite,sass,bootstrap,git,github,gitlab,nextjs,npm,wordpress' alt="My Experiences"/>
 </div>
 <h1>My Social Network</h1>
 <a href="https://www.instagram.com/_.amiiiiiiir8?igsh=enRxNGJta2Rtb2Yw&utm_source=qr" rel="nofollow">
